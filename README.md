@@ -21,7 +21,7 @@ A custom VPC, public subnet, EC2 instance, security group configuration, IAM rol
 ![Security group](Security-group.png)
 
 **Route table (0.0.0.0/0 → Internet Gateway)**  
-![Route table](Route-Table.png)
+![Route table](Route Table.png)
 
 **CloudWatch alarm (CPUUtilization > 70%)**  
 ![CloudWatch alarm](Cloudwatch.png)
