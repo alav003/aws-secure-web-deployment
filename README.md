@@ -17,7 +17,7 @@ A custom VPC, public subnet, EC2 instance, security group configuration, IAM rol
 **EC2 instance (running)**  
 ![EC2 instance](EC2-instance.png)
 **Security group (inbound rules: SSH restricted, HTTP public)**  
-![Security group](Security-group.png)
+![Security group](security-group.png)
 
 **Route table (0.0.0.0/0 → Internet Gateway)**  
 ![Route table](route-table.png)
