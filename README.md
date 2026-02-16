@@ -15,13 +15,12 @@ A custom VPC, public subnet, EC2 instance, security group configuration, IAM rol
 
 ## Screenshots / Proof
 **EC2 instance (running)**  
-![EC2 instance](EC2 Instance Screenshot.png)
-
+![EC2 instance](EC2-instance.png)
 **Security group (inbound rules: SSH restricted, HTTP public)**  
 ![Security group](Security-group.png)
 
 **Route table (0.0.0.0/0 → Internet Gateway)**  
-![Route table](Route Table.png)
+![Route table](route-table.png)
 
 **CloudWatch alarm (CPUUtilization > 70%)**  
 ![CloudWatch alarm](Cloudwatch.png)
